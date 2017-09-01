@@ -1,0 +1,11 @@
+## Lrical NLp
+
+Sentiment analysis for music lyrics.
+
+
+### Setup 
+
+
+```
+	pip install nltk
+```
